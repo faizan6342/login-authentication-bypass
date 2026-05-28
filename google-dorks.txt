@@ -1,0 +1,5 @@
+view_items.php?id=
+home.php?cat=
+goods_detail.php?data=
+prev_results.php?prodID=
+item_book.php?CAT=
