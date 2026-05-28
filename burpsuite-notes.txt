@@ -1,0 +1,8 @@
+Burp Suite is used for intercepting and analyzing HTTP requests.
+
+Features:
+- Proxy interception
+- Repeater
+- Intruder
+- Request manipulation
+- Authentication testing
