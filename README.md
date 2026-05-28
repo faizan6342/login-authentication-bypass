@@ -30,5 +30,4 @@ Educational Purpose
 This project is intended for cybersecurity education and ethical testing in controlled environments only.
 
 Author
-
 Faizan Ahmed
