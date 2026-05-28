@@ -1,0 +1,8 @@
+1. Prepared Statements
+2. Parameterized Queries
+3. Input Validation
+4. ORM Security
+5. Web Application Firewall (WAF)
+6. Least Privilege Principle
+7. Secure Error Handling
+8. Security Auditing
