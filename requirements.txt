@@ -1,0 +1,7 @@
+XAMPP
+PHP 8+
+MySQL
+Browser
+Kali Linux (Optional)
+SQLMap
+Burp Suite
