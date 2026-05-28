@@ -1,0 +1,7 @@
+Prepared statements separate SQL logic from user input.
+
+Benefits:
+- Prevent SQL Injection
+- Secure user authentication
+- Better query handling
+- Safer database communication
